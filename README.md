@@ -1,3 +1,10 @@
+# Amazon Clone Built with ReactJs
+
+Amazon clone build with react js hosted with firebase, work in progress will be adding payments and more with stripe.
+Make sure to start the repo if you like to have a look once done.
+
+![amazon-clone](https://user-images.githubusercontent.com/55942632/93022799-a9f81300-f608-11ea-92d7-7fee0854befa.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
